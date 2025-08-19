@@ -1,0 +1,12 @@
+{
+  "theme": "system",
+  "monospaceFontFamily": "CodeNewRoman Nerd Font Mono",
+  "textFontFamily": "CodeNewRoman Nerd Font Mono,Sarasa Mono CL",
+  "interfaceFontFamily": "Sarasa UI CL",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "cssTheme": "",
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
+}

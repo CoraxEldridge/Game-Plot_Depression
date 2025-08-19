@@ -1,0 +1,17 @@
+{
+  "strictLineBreaks": true,
+  "promptDelete": true,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "rightToLeft": false,
+  "attachmentFolderPath": "attachments"
+}
