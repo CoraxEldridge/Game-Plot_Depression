@@ -42,9 +42,9 @@ GP为Game Plot（游戏剧情）缩写
 
 第四章：[[Main Plot/GP_Chapter4]]
 
-第四章后半-1：[[Main Plot/GP_Chapter4.5-1]]
+第四章后半分支一：[[Main Plot/GP_Chapter4.5-1]]
 
-第四章后半-2：[[Main Plot/GP_Chapter4.5-2]]
+第四章后半分支二：[[Main Plot/GP_Chapter4.5-2]]
 
 第五章：[[Main Plot/GP_Chapter5]]
 
