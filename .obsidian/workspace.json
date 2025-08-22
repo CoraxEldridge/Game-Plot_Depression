@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plot/GP_Chapter4.5-2.md",
+                "file": "Main Plot/GP_Chapter2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GP_Chapter4.5-2"
+              "title": "GP_Chapter2"
             }
           }
         ]
@@ -209,13 +209,14 @@
   },
   "active": "1aa3b2180d3052bf",
   "lastOpenFiles": [
-    "Main Plot/GP_Chapter2.md",
     "Main Plot/GP_Chapter1.md",
+    "Main Plot/GP_Prologue.md",
+    "Main Plot/GP_Chapter4.5-2.md",
+    "Main Plot/GP_Chapter2.md",
     "Untitled.md",
     "Main Plot/~$_Chapter2.docx",
     "Main Plot/GP_Chapter2.docx",
     "未命名.base",
-    "Main Plot/GP_Prologue.md",
     "Main Plot/GP_Interlude1.md",
     "Main Plot/GP_Chapter4.md",
     "Main Plot/GP_Interlude2.md",
@@ -225,7 +226,6 @@
     "Main Plot/GP_Chapter5.md",
     "Main Plot/GP_Interlude3.md",
     "Outline/GP_Outline_FullStory.canvas",
-    "Main Plot/GP_Chapter4.5-2.md",
     "Main Plot/GP_Chapter4.5-1.md",
     "README.md",
     "Main Plot/GP_Epilogue.md",
