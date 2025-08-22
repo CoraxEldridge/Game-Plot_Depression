@@ -26,6 +26,8 @@ GP为Game Plot（游戏剧情）缩写
 
 加粗为特殊内容
 
+星号（*）后为注释
+
 ## 目录
 
 序章：[[Main Plot/GP_Prologue]]
