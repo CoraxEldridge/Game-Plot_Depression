@@ -36,6 +36,8 @@ GP为Game Plot（游戏剧情）缩写
 
 第一章：[[Main Plot/GP_Chapter1]]
 
+间章·贰：[[Main Plot/GP_Interlude2]]
+
 第二章：[[Main Plot/GP_Chapter2]]
 
 第三章：[[Main Plot/GP_Chapter3]]
