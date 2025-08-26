@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plot/GP_Chapter1.md",
+                "file": "Main Plot/GP_Chapter3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GP_Chapter1"
+              "title": "GP_Chapter3"
             }
           }
         ]
@@ -207,11 +207,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1aa3b2180d3052bf",
+  "active": "b85c7df772398238",
   "lastOpenFiles": [
+    "Main Plot/~$_Chapter3.docx",
+    "Main Plot/GP_Chapter3.docx",
+    "Main Plot/GP_Chapter1.md",
     "Outline/GP_Outline_FullStory.canvas",
     "Main Plot/GP_Chapter2.md",
-    "Main Plot/GP_Chapter1.md",
     "Main Plot/GP_Prologue.md",
     "Main Plot/GP_Chapter4.5-2.md",
     "Untitled.md",
@@ -254,7 +256,6 @@
     "版权/小说改编游戏授权合同.md",
     "大纲/未命名.canvas",
     "版权/小说改编游戏授权合同.docx",
-    "版权",
-    "新建文件夹"
+    "版权"
   ]
 }
