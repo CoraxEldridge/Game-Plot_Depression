@@ -4,27 +4,122 @@
     "type": "split",
     "children": [
       {
-        "id": "5f187997d0092cb6",
+        "id": "dc2733c8e148e407",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa3b2180d3052bf",
+            "id": "221f012bc0d44219",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Outline/GP_Outline_FullStory.canvas",
                 "viewState": {
-                  "x": 1135,
-                  "y": 128.5,
+                  "x": 1466.397842699663,
+                  "y": 2663.83876304527,
+                  "zoom": 0.42704406622443725
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "GP_Outline_FullStory"
+            }
+          },
+          {
+            "id": "358d7e39245db9f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outline/GP_Outline_Chapter4.5-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GP_Outline_Chapter4.5-2"
+            }
+          },
+          {
+            "id": "54740241c6e3fd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outline/GP_Outline_Chapter4.5-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GP_Outline_Chapter4.5-1"
+            }
+          },
+          {
+            "id": "88a3fc6079f04265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Plot/GP_Chapter5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GP_Chapter5"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8de3704e9ed02de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772ff82eeb91234d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Outline/GP_Outline_FullStory.canvas",
+                "viewState": {
+                  "x": 1287.3568781416598,
+                  "y": -649.0454470677787,
                   "zoom": -2.4980272051851267
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "GP_Outline_FullStory"
             }
+          },
+          {
+            "id": "9e73eab14f824d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Plot/GP_Chapter4.5-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GP_Chapter4.5-1"
+            }
+          },
+          {
+            "id": "be2d2e40e9dfdfba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Plot/GP_Chapter4.5-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GP_Chapter4.5-2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +290,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,18 +306,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b85c7df772398238",
+  "active": "9e73eab14f824d3b",
   "lastOpenFiles": [
-    "Outline/GP_Outline_Chapter4.5-2.md",
+    "Main Plot/GP_Chapter5.md",
+    "Main Plot/GP_Chapter4.5-1.md",
     "Outline/GP_Outline_Chapter4.5-1.md",
+    "Outline/GP_Outline_Chapter4.5-2.md",
+    "Main Plot/GP_Chapter4.5-2.md",
+    "Outline/GP_Outline_FullStory.canvas",
+    "Main Plot/GP_Chapter1.md",
     "Main Plot/GP_Chapter3.md",
     "Main Plot/~$_Chapter3.docx",
     "Main Plot/GP_Chapter3.docx",
-    "Main Plot/GP_Chapter1.md",
-    "Outline/GP_Outline_FullStory.canvas",
     "Main Plot/GP_Chapter2.md",
     "Main Plot/GP_Prologue.md",
-    "Main Plot/GP_Chapter4.5-2.md",
     "Untitled.md",
     "Main Plot/~$_Chapter2.docx",
     "Main Plot/GP_Chapter2.docx",
@@ -232,9 +330,7 @@
     "attachments/Pasted image 20250817201735.png",
     "attachments/Pasted image 20250817200843.png",
     "attachments",
-    "Main Plot/GP_Chapter5.md",
     "Main Plot/GP_Interlude3.md",
-    "Main Plot/GP_Chapter4.5-1.md",
     "README.md",
     "Main Plot/GP_Epilogue.md",
     "attachments/Pasted image 20250724151924.png",
@@ -257,7 +353,6 @@
     "Deprecated",
     "大纲/Pasted image 20250524174146.png",
     "大纲/总大纲.png",
-    "灵感/歌词.md",
     "大纲/未命名.canvas",
     "版权/小说改编游戏授权合同.docx"
   ]
