@@ -6,6 +6,7 @@
       {
         "id": "dc2733c8e148e407",
         "type": "tabs",
+        "dimension": 44.90072202166065,
         "children": [
           {
             "id": "221f012bc0d44219",
@@ -58,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plot/GP_Chapter5.md",
+                "file": "Outline/GP_Outline_Chapter4.5-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GP_Chapter5"
+              "title": "GP_Outline_Chapter4.5-2"
             }
           }
         ],
@@ -72,6 +73,7 @@
       {
         "id": "8de3704e9ed02de7",
         "type": "tabs",
+        "dimension": 55.099277978339344,
         "children": [
           {
             "id": "772ff82eeb91234d",
@@ -81,7 +83,7 @@
               "state": {
                 "file": "Outline/GP_Outline_FullStory.canvas",
                 "viewState": {
-                  "x": 1287.3568781416598,
+                  "x": 909.0915255140904,
                   "y": -649.0454470677787,
                   "zoom": -2.4980272051851267
                 }
@@ -118,8 +120,7 @@
               "title": "GP_Chapter4.5-2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,12 +307,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9e73eab14f824d3b",
+  "active": "772ff82eeb91234d",
   "lastOpenFiles": [
+    "Outline/GP_Outline_Chapter4.5-2.md",
+    "Outline/GP_Outline_Chapter4.5-1.md",
     "Main Plot/GP_Chapter5.md",
     "Main Plot/GP_Chapter4.5-1.md",
-    "Outline/GP_Outline_Chapter4.5-1.md",
-    "Outline/GP_Outline_Chapter4.5-2.md",
     "Main Plot/GP_Chapter4.5-2.md",
     "Outline/GP_Outline_FullStory.canvas",
     "Main Plot/GP_Chapter1.md",
