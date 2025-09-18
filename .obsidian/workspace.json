@@ -56,17 +56,14 @@
             "id": "9e73eab14f824d3b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Outline/GP_Outline_FullStory.canvas",
-                "viewState": {
-                  "x": 487.0119993037715,
-                  "y": -1677.9990701648494,
-                  "zoom": -0.4444983020508827
-                }
+                "file": "Main Plot/GP_Prologue.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GP_Outline_FullStory"
+              "icon": "lucide-file",
+              "title": "GP_Prologue"
             }
           },
           {
@@ -287,19 +284,20 @@
   },
   "active": "9e73eab14f824d3b",
   "lastOpenFiles": [
-    "Main Plot/GP_Chapter5.md",
-    "Outline/GP_Outline_FullStory.canvas",
+    "Main Plot/GP_Interlude3.md",
+    "Main Plot/GP_Interlude1.md",
+    "Main Plot/GP_Interlude2.md",
     "Main Plot/GP_Epilogue.md",
+    "Main Plot/GP_Chapter5.md",
+    "Main Plot/GP_Chapter4.5-2.md",
+    "Main Plot/GP_Chapter4.5-1.md",
+    "Main Plot/GP_Chapter4.md",
     "Main Plot/GP_Chapter3.md",
+    "Main Plot/GP_Chapter1.md",
+    "Outline/GP_Outline_FullStory.canvas",
     "Main Plot/GP_Chapter2.md",
     "Main Plot/GP_Prologue.md",
-    "Main Plot/GP_Interlude1.md",
-    "Main Plot/GP_Interlude3.md",
-    "Main Plot/GP_Interlude2.md",
-    "Main Plot/GP_Chapter1.md",
-    "Main Plot/GP_Chapter4.5-1.md",
     "Outline/GP_Outline_Chapter4.5-2.md",
-    "Main Plot/GP_Chapter4.5-2.md",
     "Outline/GP_Outline_Chapter4.5-1.md",
     "Main Plot/~$_Chapter3.docx",
     "Main Plot/GP_Chapter3.docx",
@@ -307,7 +305,6 @@
     "Main Plot/~$_Chapter2.docx",
     "Main Plot/GP_Chapter2.docx",
     "未命名.base",
-    "Main Plot/GP_Chapter4.md",
     "attachments/Pasted image 20250817201735.png",
     "attachments/Pasted image 20250817200843.png",
     "attachments",
