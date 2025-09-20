@@ -16,11 +16,9 @@ GP 为 Game Plot（游戏剧情）缩写
 
 ### 内容格式
 
-「」为场景表演
+「」为场景提示
 
 （UserName）为玩家昵称
-
-分割线（-----）为场景切换
 
 引用语法（>）为选项内容
 
@@ -36,9 +34,9 @@ GP 为 Game Plot（游戏剧情）缩写
 
 第一章：[[Main Plot/GP_Chapter1]]
 
-间章·贰：[[Main Plot/GP_Interlude2]]
-
 第二章：[[Main Plot/GP_Chapter2]]
+
+间章·贰：[[Main Plot/GP_Interlude2]]
 
 第三章：[[Main Plot/GP_Chapter3]]
 
