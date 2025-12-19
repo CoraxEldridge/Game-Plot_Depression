@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plot/GP_Prologue.md",
+                "file": "Main Plot/GP_Chapter5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GP_Prologue"
+              "title": "GP_Chapter5"
             }
           },
           {
@@ -86,16 +86,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline/GP_Outline_Chapter4.5-2.md",
+                "file": "Outline/GP_Outline_Chapter5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GP_Outline_Chapter4.5-2"
+              "title": "GP_Outline_Chapter5"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,21 +282,22 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9e73eab14f824d3b",
+  "active": "88a3fc6079f04265",
   "lastOpenFiles": [
-    "Main Plot/GP_Interlude3.md",
-    "Main Plot/GP_Interlude1.md",
-    "Main Plot/GP_Interlude2.md",
-    "Main Plot/GP_Epilogue.md",
     "Main Plot/GP_Chapter5.md",
     "Main Plot/GP_Chapter4.5-2.md",
+    "Main Plot/GP_Epilogue.md",
+    "Main Plot/GP_Interlude1.md",
+    "Main Plot/GP_Interlude3.md",
+    "Main Plot/GP_Prologue.md",
     "Main Plot/GP_Chapter4.5-1.md",
     "Main Plot/GP_Chapter4.md",
     "Main Plot/GP_Chapter3.md",
-    "Main Plot/GP_Chapter1.md",
-    "Outline/GP_Outline_FullStory.canvas",
     "Main Plot/GP_Chapter2.md",
-    "Main Plot/GP_Prologue.md",
+    "Main Plot/GP_Interlude2.md",
+    "Main Plot/GP_Chapter1.md",
+    "README.md",
+    "Outline/GP_Outline_FullStory.canvas",
     "Outline/GP_Outline_Chapter4.5-2.md",
     "Outline/GP_Outline_Chapter4.5-1.md",
     "Main Plot/~$_Chapter3.docx",
@@ -308,7 +309,6 @@
     "attachments/Pasted image 20250817201735.png",
     "attachments/Pasted image 20250817200843.png",
     "attachments",
-    "README.md",
     "attachments/Pasted image 20250724151924.png",
     "LICENSE.md",
     "attachments/Pasted image 20250627212742.png",
