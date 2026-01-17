@@ -4,11 +4,15 @@
 
 完整大纲见![[Outline/GP_Outline_FullStory.canvas]]
 
+-----
+
 ## 版权说明
 
 项目遵循 MIT 开源协议，详见[[LICENSE]]文档。
 
 最终解释权归Colore_所有。
+
+-----
 
 ## 目录
 
@@ -33,6 +37,14 @@
 第五章：[[Main Plot/GP_Chapter5]]
 
 终章：[[Main Plot/GP_Epilogue]]
+
+### 总字数
+
+约两万一千字（不计标点符号）
+
+*元数据：21305词*
+
+-----
 
 ## 格式说明
 
