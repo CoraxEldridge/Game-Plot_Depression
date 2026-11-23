@@ -1,35 +1,3 @@
-# LICENSE
-
-《抑：记忆破碎》游戏剧情文本
-Copyright (c) 2026 Colore_（楚忆）及 Contributors to Colore.
-
-本作品采用**「知识共享 署名-非商业性使用-禁止演绎 4.0 国际许可协议」**
-（Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International，简称 **CC BY-NC-ND 4.0**）进行许可。
-
-## 你可以自由地
-
-- **共享** —— 以任何媒介或格式复制、发行本作品。
-
-## 惟须遵守下列条件
-
-- **署名** —— 必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。你可以以任何合理的方式这样做，但不得以任何方式暗示许可人认可你或你的使用。
-- **非商业性使用** —— 不得将本作品用于商业目的。
-- **禁止演绎** —— 若再混合、转换，或基于本作品进行创作，则不得分发修改后的作品。
-- **不得增加额外限制** —— 不得适用法律术语或技术措施，从而在法律上限制他人做本许可协议所允许的事情。
-
-本协议不允许商业性使用，这一点与 MIT 等开源软件许可证不同：任何人不得售卖本作品、将其用于付费产品或商业发行，也不得改编后发布。
-
-## 协议链接
-
-- 协议摘要（人可读）：<https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh>
-- 完整法律文本（英文，具有法律效力）：<https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>
-
----
-
-# 完整法律文本 / Full Legal Code
-
-以下为 CC BY-NC-ND 4.0 官方英文法律文本，与上方摘要冲突时以本法律文本为准。
-
 Attribution-NonCommercial-NoDerivatives 4.0 International
 
 =======================================================================

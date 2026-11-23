@@ -8,7 +8,15 @@
 
 ## 版权说明
 
-本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议（署名—非商业性使用—禁止演绎 4.0 国际）：可自由阅读、原样转发，但不得商用、不得改编发布。详见 [[LICENSE]] 文档。
+Copyright (c) 2026 Colore_（楚忆）及 Contributors to Colore.
+
+本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh) 协议（署名—非商业性使用—禁止演绎 4.0 国际）：
+
+- **可自由**：阅读、以任何媒介原样复制与转发本作品（须保留署名与协议声明）。
+- **不可商用**：不得将本作品用于付费产品、商业发行或任何以营利为目的的用途。
+- **不可改编**：不得再混合、转换或基于本作品创作后发布（改写、续写、翻译、改编成其他形式均属演绎）。
+
+完整法律文本见 [[LICENSE]] 文档（英文，具有法律效力）；协议摘要见 <https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh>。
 
 最终解释权归Colore_所有。
 
