@@ -8,7 +8,7 @@
 
 ## 版权说明
 
-项目遵循 MIT 开源协议，详见[[LICENSE]]文档。
+本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议（署名—非商业性使用—禁止演绎 4.0 国际）：可自由阅读、原样转发，但不得商用、不得改编发布。详见 [[LICENSE]] 文档。
 
 最终解释权归Colore_所有。
 
