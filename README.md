@@ -1,6 +1,6 @@
 # README
 
-此仓库为Colore_（楚忆）及其团队为《抑：记忆破碎》所撰写的游戏剧情。
+此仓库为CoraxEldridge（楚忆）及其团队为《抑：记忆破碎》所撰写的游戏剧情。
 
 完整大纲见![[Outline/GP_Outline_FullStory.canvas]]
 
@@ -8,7 +8,7 @@
 
 ## 版权说明
 
-Copyright (c) 2026 Colore_（楚忆）及 Contributors to Colore.
+Copyright (c) 2026 CoraxEldridge（楚忆）及 Contributors to CoraxEldridge.
 
 本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh) 协议（署名—非商业性使用—禁止演绎 4.0 国际）：
 
@@ -18,7 +18,7 @@ Copyright (c) 2026 Colore_（楚忆）及 Contributors to Colore.
 
 完整法律文本见 [[LICENSE]] 文档（英文，具有法律效力）；协议摘要见 <https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh>。
 
-最终解释权归Colore_所有。
+最终解释权归CoraxEldridge所有。
 
 -----
 
@@ -71,17 +71,19 @@ GP 为 Game Plot（游戏剧情）缩写
 
 星号（\*）后为注释
 
-若有疑问，请咨询Colore_
+若有疑问，请咨询CoraxEldridge
 
-## 特别鸣谢
-
-（按首字母排序，名次不分先后）
+## 工作室成员
 
 楚忆
 
 东云美月
 
 暮时雨花
+
+## 特别鸣谢
+
+（按首字母排序，名次不分先后）
 
 夜空中最亮的星
 
